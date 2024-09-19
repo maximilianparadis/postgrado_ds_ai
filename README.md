@@ -1,2 +1,2 @@
 # postgrado_ds_ai
-GitHub postgrado ub
+GitHub postgrado falta colocar mas descripcion de este repositorio
