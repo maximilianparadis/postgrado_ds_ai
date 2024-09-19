@@ -8,7 +8,7 @@ pygame.init()
 # Configuración de la pantalla
 WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Simulación de Red Estrella")
+pygame.display.set_caption("Simulación de Red Estrella")git 
 
 # Colores
 WHITE = (255, 255, 255)
